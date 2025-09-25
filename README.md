@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kavin
-- 👀 I’m interested in Data Science. I have a degree in Civil Engineering but have been working in Finance for the last 4 years. I recently became very interested in
-      data science and I'm building my skills.
-- 🌱 I’m currently taking the Data Science program at Ryerson and looking to build some projects to showcase.
-- 💞️ I’m looking to collaborate on Data sets right now with anyone who is on the same boat as me or someone with a little more experience, I've got some experience with python, R, SQL from completing the Ryerson program and looking to build on it.
+- 👀 I’m interested in becoming a full stack developer. I have a degree in Civil Engineering but have been working in Finance for the last 8 years, 3 of which I spent as an SDET working in software testing and automation.
+- 🌱 I’m currently taking a software engineering program at brainstation and looking to build some projects to showcase.
 - 📫 How to reach me: kavinp622@gmail.com
 
 <!---
